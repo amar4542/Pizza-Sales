@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis — Data Analytics Project
+# 🍕 Pizza Sales Analysis
 
 ## 📌 Project Overview
 This project explores a full year of pizza sales data to uncover key business insights.  
@@ -9,7 +9,7 @@ and revenue distribution with clear and professional visualizations.
 
 ## 📂 Files Included
 - **PizzaSales.ipynb** → Complete Jupyter Notebook with analysis & visualizations  
-- **README.md** → Project documentation (this file)
+- **Pizza Sales.csv**  → Raw Dataset
 
 ---
 
