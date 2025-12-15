@@ -15,7 +15,7 @@ and revenue distribution with clear and professional visualizations.
 ## 🔘 Access the Project
 
 ### 📊 Dataset  
-[![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-navyblue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Pizza-Sales/Raw/main/pizza_sales.csv)
+[![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-navyblue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Pizza-Sales/raw/main/pizza_sales.csv)
 
 ### 📈 Dashboard  
 [![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-red?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Pizza-Sales/blob/main/PizzaSales.ipynb)
